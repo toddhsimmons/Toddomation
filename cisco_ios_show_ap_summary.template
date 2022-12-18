@@ -1,0 +1,19 @@
+Value AP_NAME (\S+)
+Value SLOT (\d+)
+Value AP_MODEL (\S+)
+Value E_MAC ([a-fA-F0-9:\.]+)
+Value R_MAC ([a-fA-F0-9:\.]+)
+Value LOCATION (.+?)
+Value COUNTRY (\S+)
+Value IP ([a-fA-F0-9:\.]+)
+Value STATE (.+?)
+
+
+
+Start
+  ^${AP_NAME}\s+${SLOT}\s+${AP_MODEL}\s+${E_MAC}\s+${R_MAC}\s+${LOCATION}\s+${COUNTRY}\s+${IP}\s+${STATE}\s*$$ -> Record
+  ^.+\.+
+  ^\s*$$
+  ^AP\s+Name\s+Slots\s+AP\s+Model\s+Ethernet\s+MAC\s+Radio\s+MAC\s+Location\s+Country\s+IP\s+Address\s+State\s*$$
+  ^-+
+  ^. -> Continue
