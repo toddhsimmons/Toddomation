@@ -1,0 +1,28 @@
+Value MAC (\w{4}.\w{4}.\w{4})
+Value AP_NAME (FF-.{12})
+Value SLOT (\d)
+Value WLAN (.+)
+Value CONNECTED (\d+)
+Value PROTOCOL (802\.11ax.*z)
+Value CHANNEL (\d+)
+Value RATE (\d+.*)
+Value BYTES_RECEIVED (\d+)
+Value BYTES_SENT (\d+)
+Value RSSI (-\d+\sdBm)
+Value SNR (\d+\sdB)
+Value DEVICE_TYPE (.*)
+
+Start
+  ^Client MAC Address : ${MAC}
+  ^AP Name: ${AP_NAME}
+  ^AP slot : ${SLOT}
+  ^Wireless LAN Network Name \(SSID\): ${WLAN}
+  ^Connected For : ${CONNECTED}
+  ^Protocol : ${PROTOCOL}
+  ^Channel : ${CHANNEL}
+  ^Current Rate : ${RATE}
+  ^  Number of Bytes Received from Client : ${BYTES_RECEIVED}
+  ^  Number of Bytes Sent to Client : ${BYTES_SENT}
+  ^  Radio Signal Strength Indicator : ${RSSI}
+  ^  Signal to Noise Ratio : ${SNR}
+  ^  Device Type      : ${DEVICE_TYPE}
