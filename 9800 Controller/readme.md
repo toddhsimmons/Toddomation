@@ -1,1 +1,1 @@
-Here are where there are different Python projects for the Cisco 9800 Controllers.
+Here are where there are different Python projects for the Cisco 9800 Controllers.  Everything is this location will apply to some sort of wireless monitoring, troubleshooting or changes associated with the WiFi provided by the Cisco 9800 controller.
