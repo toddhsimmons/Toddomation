@@ -3,8 +3,8 @@ from pprint import pprint
 import meraki
 
 API_KEY = os.environ.get("MERAKI_API_KEY")
-ORG_NAME = "Toddomation"
-NETWORK_NAME = "Get Toddomated"
+ORG_NAME = ""
+NETWORK_NAME = ""
 
 
 # # Gets the Orgs the API Key has access to
