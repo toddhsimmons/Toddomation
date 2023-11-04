@@ -1,0 +1,4429 @@
+[
+    {
+        "id": "L_634444597505861201",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-1",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-1-ap/n/6R1oXb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861202",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-2",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-2-ap/n/JkAR8d_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861203",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-3",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-3-ap/n/qRIhFd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861204",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-4",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-4-ap/n/FBW6Ga_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861205",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-5",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-5-ap/n/IK247c_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861206",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-6",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-6-ap/n/4pWAOc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861207",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-7",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-7-ap/n/4oyB-b_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861208",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-8",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-8-ap/n/2QXqYd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861209",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-9",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-9-ap/n/3DNRHd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861210",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-10",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-10-a/n/lHNdwd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861211",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-11",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-11-a/n/AR4FSb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861212",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-12",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-12-a/n/W8J6cc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861213",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-13",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-13-a/n/20ZtAd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861214",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-14",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-14-a/n/-0kMDb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861215",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-1",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-1-ap/n/Eeh9Pd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861216",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-2",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-2-ap/n/ru659b_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861217",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-3",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-3-ap/n/ov3k8c_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861218",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-4",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-4-ap/n/-1KBMa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861219",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-5",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-5-ap/n/JGZufb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861220",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-6",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-6-ap/n/WItGEd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861221",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-7",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-7-ap/n/bEuAXa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861222",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-8",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-8-ap/n/BTb-Zd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861223",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-9",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-9-ap/n/YVt8Ka_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861224",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-1",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-1-a/n/3urPna_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861225",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-2",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-2-a/n/K3qe1b_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861226",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-3",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-3-a/n/-zfhdb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861227",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-4",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-4-a/n/O6HMMd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861228",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-5",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-5-a/n/9SJUwc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861229",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-6",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-6-a/n/hyggJb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861230",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-7",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-7-a/n/qJ8GYa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861246",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-15",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-15-a/n/uD7o2d_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861247",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-16",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-16-a/n/I8JxKd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861248",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-17",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-17-a/n/lTq8Db_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861249",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-18",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-18-a/n/XIpd5a_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861250",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-19",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-19-a/n/Oangwd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861251",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-20",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-20-a/n/OYXJla_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861252",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-21",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-21-a/n/x_6YOc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861253",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-22",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-22-a/n/Q8ciQc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861254",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-23",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-23-a/n/DeG6Xa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861255",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-24",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-24-a/n/FITsJc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861256",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-25",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-25-a/n/6udQKc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861257",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-26",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-26-a/n/0Iuvnc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861258",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-27",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-27-a/n/hgb3yc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861259",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-28",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-28-a/n/mucaDb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861260",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-29",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-29-a/n/Dzh8_a_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861261",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-30",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-30-a/n/AjTqdc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861262",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-31",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-31-a/n/R7u3Ic_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861263",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-32",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-32-a/n/HsMa2b_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861264",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-33",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-33-a/n/l8FUec_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861265",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-34",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-34-a/n/qqO1eb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861266",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-35",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-35-a/n/vFRScc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861267",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-36",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-36-a/n/CEOm_d_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861268",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-37",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-37-a/n/YzbBNd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861269",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-38",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-38-a/n/hjm0hc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861270",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-39",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-39-a/n/QfERgd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861271",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-40",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-40-a/n/nELGQc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861272",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-41",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-41-a/n/bgzIHb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861273",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-42",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-42-a/n/Il2jMb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861274",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-43",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-43-a/n/NwprDb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861275",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-44",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-44-a/n/KndbWa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861276",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-45",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-45-a/n/rXx0md_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861277",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-46",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-46-a/n/S8DWFa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861278",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-47",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-47-a/n/MEFBLa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861279",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-48",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-48-a/n/bs06zd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861280",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-49",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-49-a/n/Ysjdea_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861281",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-50",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-50-a/n/fx7Xkc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861282",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-51",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-51-a/n/vTK8Oa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861283",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-52",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-52-a/n/Yr0iHa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861284",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-53",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-53-a/n/QySXRd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861285",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-54",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-54-a/n/S70c8c_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861286",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-55",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-55-a/n/gBWj1b_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861287",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-56",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-56-a/n/CJgU0a_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861288",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-57",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-57-a/n/_tE5Vc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861289",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-58",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-58-a/n/u2nvzd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861290",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-59",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-59-a/n/nVBauc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861291",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-60",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-60-a/n/5Kllpa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861292",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-61",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-61-a/n/6j7lbd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861293",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-62",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-62-a/n/uRtTuc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861294",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-63",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-63-a/n/CmbT0c_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861295",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-64",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-64-a/n/SAzjCd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861296",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-65",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-65-a/n/H94WTd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861297",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-66",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-66-a/n/pIi-jb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861298",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-67",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-67-a/n/vPoauc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861299",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-68",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-68-a/n/H_gX9d_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861300",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-69",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-69-a/n/xFqn4b_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861301",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-70",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-70-a/n/CWEk9a_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861302",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-71",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-71-a/n/HuXYAb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861303",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-72",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-72-a/n/7_ulXd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861304",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-73",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-73-a/n/wUJlEc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861305",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-74",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-74-a/n/7eVvQd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861306",
+        "organizationId": "634444597505824952",
+        "name": "EastNetwork-75",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/New_York",
+        "tags": [
+            "East_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/EastNetwork-75-a/n/sHcJ2a_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861316",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-10",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-10-a/n/_bdvyb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861317",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-11",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-11-a/n/rGdaMd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861318",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-12",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-12-a/n/lebe2c_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861319",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-13",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-13-a/n/Mf7ASb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861320",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-14",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-14-a/n/IU9BCc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861321",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-15",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-15-a/n/A15pgd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861322",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-16",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-16-a/n/jNlXvb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861323",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-17",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-17-a/n/6Y_wya_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861324",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-18",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-18-a/n/sIY9ac_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861325",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-19",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-19-a/n/FXVthc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861326",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-20",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-20-a/n/0uMNPc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861327",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-21",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-21-a/n/y2reza_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861328",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-22",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-22-a/n/gX9Vjd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861329",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-23",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-23-a/n/kEeAWa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861330",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-24",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-24-a/n/bxM9ra_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861331",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-25",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-25-a/n/MDVcsa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861332",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-26",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-26-a/n/eHGASb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861333",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-27",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-27-a/n/gZTypc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861334",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-28",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-28-a/n/JC6Nea_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861335",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-29",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-29-a/n/FLX7Yb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861336",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-30",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-30-a/n/K3dHjd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861337",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-31",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-31-a/n/7BMvxb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861338",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-32",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-32-a/n/GHQESd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861339",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-33",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-33-a/n/csEJsd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861340",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-34",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-34-a/n/V7KDyb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861341",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-35",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-35-a/n/pkZ2sa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861342",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-36",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-36-a/n/7BfE7a_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861343",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-37",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-37-a/n/ontyga_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861344",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-38",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-38-a/n/1uD1Qc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861345",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-39",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-39-a/n/e98osb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861346",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-40",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-40-a/n/smeYfc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861347",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-41",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-41-a/n/xtEjfd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861348",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-42",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-42-a/n/w3STNa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861349",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-43",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-43-a/n/dFN4Ea_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861350",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-44",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-44-a/n/hidZua_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861351",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-45",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-45-a/n/m-Lljc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861352",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-46",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-46-a/n/i2WVYc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861353",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-47",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-47-a/n/wnNCHd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861354",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-48",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-48-a/n/q2GN3b_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861355",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-49",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-49-a/n/kab_Sb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861356",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-50",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-50-a/n/gHRamd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861357",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-51",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-51-a/n/KzerEa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861358",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-52",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-52-a/n/V5E5Gd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861359",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-53",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-53-a/n/V--LJd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861360",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-54",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-54-a/n/aNUhTa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861361",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-55",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-55-a/n/j2EF0c_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861362",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-56",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-56-a/n/YkcgFd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861363",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-57",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-57-a/n/A5OvKa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861364",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-58",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-58-a/n/7-PWYa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861365",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-59",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-59-a/n/LHjyyd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861366",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-60",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-60-a/n/fgB6hb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861367",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-61",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-61-a/n/o6R-Hc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861368",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-62",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-62-a/n/5efMGa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861369",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-63",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-63-a/n/-FQxac_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861370",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-64",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-64-a/n/6ZK4Dd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861371",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-65",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-65-a/n/kRJHba_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861372",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-66",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-66-a/n/EiQTZb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861373",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-67",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-67-a/n/I5lqZc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861374",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-68",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-68-a/n/OHUiKb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861375",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-69",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-69-a/n/2i5qvd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861376",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-70",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-70-a/n/qST9Ub_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861377",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-71",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-71-a/n/wKWr3d_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861378",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-72",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-72-a/n/0ygfsd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861379",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-73",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-73-a/n/GF8aAa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861380",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-74",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-74-a/n/lz7-Uc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861381",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-75",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-75-a/n/6Dev5a_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861382",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-76",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-76-a/n/5Tj2ac_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861383",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-77",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-77-a/n/_PJX4c_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861384",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-78",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-78-a/n/hYmEMa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861385",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-79",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-79-a/n/Ju9NEa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861386",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-80",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-80-a/n/myMNFd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861387",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-81",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-81-a/n/LXNwYc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861388",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-82",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-82-a/n/6n7xJc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861389",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-83",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-83-a/n/BE_TRa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861390",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-84",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-84-a/n/uzl7vc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861391",
+        "organizationId": "634444597505824952",
+        "name": "WestNetwork-85",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "West_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/WestNetwork-85-a/n/1FejSb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861399",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-8",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-8-a/n/FZ9Wtb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861400",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-9",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-9-a/n/RzJfRb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861401",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-10",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-10-/n/AVaIUb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861402",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-11",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-11-/n/Tu7TLb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861403",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-12",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-12-/n/EAV7sd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861404",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-13",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-13-/n/_PhGOb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861405",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-14",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-14-/n/HWygBd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861406",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-15",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-15-/n/-YBKIa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861407",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-16",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-16-/n/xxtgVc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861408",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-17",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-17-/n/LS4HCa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861409",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-18",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-18-/n/2azxYd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861410",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-19",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-19-/n/VD2qgb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861411",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-20",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-20-/n/u1pGEb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861412",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-21",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-21-/n/WKA9ba_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861413",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-22",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-22-/n/unUpna_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861414",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-23",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-23-/n/SKdfPb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861415",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-24",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-24-/n/yufhqc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861416",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-25",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-25-/n/slj1ud_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861417",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-26",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-26-/n/0DQBpa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861418",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-27",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-27-/n/OOIjBd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861419",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-28",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-28-/n/qK_Lwa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861420",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-29",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-29-/n/_hJhMc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861421",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-30",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-30-/n/rue37d_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861422",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-31",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-31-/n/fp704d_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861423",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-32",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-32-/n/XPPCCc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861424",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-33",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-33-/n/fp0omc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861425",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-34",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-34-/n/ljHFXa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861426",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-35",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-35-/n/P9ghqd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861427",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-36",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-36-/n/k6uHpa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861428",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-37",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-37-/n/N9-I_c_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861429",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-38",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-38-/n/nwLoCb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861430",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-39",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-39-/n/AUYWtd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861431",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-40",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-40-/n/8o_XFa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861432",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-41",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-41-/n/h0sZva_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861433",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-42",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-42-/n/_4tRea_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861434",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-43",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-43-/n/lhgyza_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861435",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-44",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-44-/n/P8isnb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861436",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-45",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-45-/n/7yhWcd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861437",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-46",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-46-/n/qYVC0c_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861438",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-47",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-47-/n/5D8inb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861439",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-48",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-48-/n/eGRSeb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861440",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-49",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-49-/n/Bs_FVc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861441",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-50",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-50-/n/62ygnc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861442",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-51",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-51-/n/w1yssb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861443",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-52",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-52-/n/xJ5QVa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861444",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-53",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-53-/n/jieOHa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861445",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-54",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-54-/n/M0iGta_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861446",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-55",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-55-/n/ubqJtd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861447",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-56",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-56-/n/GtaUoc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861448",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-57",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-57-/n/WSwP3d_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861449",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-58",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-58-/n/K0O-Ra_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861450",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-59",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-59-/n/U4vlCa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861451",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-60",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-60-/n/-Ga-_d_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861452",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-61",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-61-/n/xObx-a_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861453",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-62",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-62-/n/IkImtb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861454",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-63",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-63-/n/iWQicb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861455",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-64",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-64-/n/hGJnmb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861456",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-65",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-65-/n/p752Jd_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861457",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-66",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-66-/n/PA2BGb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861458",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-67",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-67-/n/tvZf9d_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861459",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-68",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-68-/n/0e3wEc_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861460",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-69",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-69-/n/8KDOCa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861461",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-70",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-70-/n/2N1Usb_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861462",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-71",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-71-/n/pPYoqa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861463",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-72",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-72-/n/avbp_a_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    },
+    {
+        "id": "L_634444597505861464",
+        "organizationId": "634444597505824952",
+        "name": "ThirdNetwork-73",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "America/Los_Angeles",
+        "tags": [
+            "Third_Region"
+        ],
+        "enrollmentString": null,
+        "url": "https://n127.meraki.com/ThirdNetwork-73-/n/R6YiWa_b/manage/usage/list",
+        "notes": null,
+        "isBoundToConfigTemplate": false
+    }
+]
