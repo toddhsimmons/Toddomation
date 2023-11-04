@@ -16,6 +16,7 @@ network_id = "L_634444597505861201"
 # API_KEY = "1234567890asdgfhjklQWERTYUIOPzxcvbnm1234"
 # ORG_ID = "12345"
 
+
 # This sets up the connection to the Meraki Dashboard
 dashboard = meraki.DashboardAPI(API_KEY, suppress_logging=True)
 
