@@ -4,7 +4,7 @@ from decouple import config
 import meraki
 from icecream import ic
 import meraki
-import merakiACLs as acl
+import merakiApplianceACLs as acl
 
 API_KEY = config("API_KEY")
 ORG_ID = config("ORG_ID")
@@ -20,7 +20,7 @@ network_id = "L_634444597505861201"
 dashboard = meraki.DashboardAPI(API_KEY, suppress_logging=True)
 
 # This gets the data from the Excel Spreadsheet
-switchACLs, firewallInACLs, firewallOutACLs, wirelessACLs = acl.getRules(network_id)
+firewallInACLs, firewallOutACLs = acl.getRules(network_id)
 
 # Update the Firewall Appliance Inbound Rules
 response = dashboard.appliance.updateNetworkApplianceFirewallInboundFirewallRules(
@@ -31,29 +31,3 @@ response = dashboard.appliance.updateNetworkApplianceFirewallInboundFirewallRule
 response = dashboard.appliance.updateNetworkApplianceFirewallL3FirewallRules(
     network_id, rules=firewallOutACLs
 )
-
-# This updates the ACLs on the Meraki Switches
-response = dashboard.switch.updateNetworkSwitchAccessControlLists(
-    network_id, switchACLs
-)
-
-ssidCount = []
-for line in wirelessACLs:
-    ssidNumber = int(line["ssid"])
-    ssidCount.append(ssidNumber)
-
-ssids = list(set(ssidCount))
-
-for ssid in ssids:
-    rules = []
-    for line in wirelessACLs:
-        if line["ssid"] == str(ssid):
-            rules.append(line)
-            lanAccess = bool(line["allowLanAccess"])
-
-    response = dashboard.wireless.updateNetworkWirelessSsidFirewallL3FirewallRules(
-        network_id,
-        number=ssid,
-        rules=rules,
-        allowLanAccess=lanAccess,
-    )

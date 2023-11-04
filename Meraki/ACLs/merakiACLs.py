@@ -7,7 +7,7 @@ from icecream import ic
 warnings.filterwarnings("ignore", category=UserWarning, module="openpyxl")
 
 
-def get_data(network_id):
+def getRules(network_id):
     Excel_Doc = f"{network_id}.xlsx"
     # This method is called to get the data from the Excel
     # Multiple tabs within the workbook can be called
@@ -68,7 +68,5 @@ def get_data(network_id):
                 for key, cell in zip(headers, row):
                     values[key] = cell.value
                 wireless.append(values)
-    # print(org)
-    # pprint(networks)
 
     return switch, firewallIn, firewallOut, wireless

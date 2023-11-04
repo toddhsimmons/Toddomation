@@ -20,22 +20,7 @@ network_id = "L_634444597505861201"
 dashboard = meraki.DashboardAPI(API_KEY, suppress_logging=True)
 
 # This gets the data from the Excel Spreadsheet
-switchACLs, firewallInACLs, firewallOutACLs, wirelessACLs = acl.getRules(network_id)
-
-# Update the Firewall Appliance Inbound Rules
-response = dashboard.appliance.updateNetworkApplianceFirewallInboundFirewallRules(
-    network_id, rules=firewallInACLs
-)
-
-# Update the Firewall Appliance Outbound Rules
-response = dashboard.appliance.updateNetworkApplianceFirewallL3FirewallRules(
-    network_id, rules=firewallOutACLs
-)
-
-# This updates the ACLs on the Meraki Switches
-response = dashboard.switch.updateNetworkSwitchAccessControlLists(
-    network_id, switchACLs
-)
+wirelessACLs = acl.getRules(network_id)
 
 ssidCount = []
 for line in wirelessACLs:
