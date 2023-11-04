@@ -4,7 +4,7 @@ from decouple import config
 import meraki
 from icecream import ic
 import meraki
-import merakiACLs as acl
+import merakiWirelessACLs as acl
 
 API_KEY = config("API_KEY")
 ORG_ID = config("ORG_ID")
