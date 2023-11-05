@@ -22,6 +22,7 @@ dashboard = meraki.DashboardAPI(API_KEY, suppress_logging=True)
 # This gets the data from the Excel Spreadsheet
 wirelessACLs = acl.getRules(network_id)
 
+
 ssidCount = []
 for line in wirelessACLs:
     ssidNumber = int(line["ssid"])
